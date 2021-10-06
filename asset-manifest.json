@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/etcoda/static/css/main.a617e044.chunk.css",
+    "main.js": "/etcoda/static/js/main.97cfdefa.chunk.js",
+    "main.js.map": "/etcoda/static/js/main.97cfdefa.chunk.js.map",
+    "runtime-main.js": "/etcoda/static/js/runtime-main.6b030b80.js",
+    "runtime-main.js.map": "/etcoda/static/js/runtime-main.6b030b80.js.map",
+    "static/js/2.423940cd.chunk.js": "/etcoda/static/js/2.423940cd.chunk.js",
+    "static/js/2.423940cd.chunk.js.map": "/etcoda/static/js/2.423940cd.chunk.js.map",
+    "static/js/3.d01ab926.chunk.js": "/etcoda/static/js/3.d01ab926.chunk.js",
+    "static/js/3.d01ab926.chunk.js.map": "/etcoda/static/js/3.d01ab926.chunk.js.map",
+    "index.html": "/etcoda/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/etcoda/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.423940cd.chunk.js.LICENSE.txt": "/etcoda/static/js/2.423940cd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/etcoda/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b030b80.js",
+    "static/js/2.423940cd.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.97cfdefa.chunk.js"
+  ]
+}
